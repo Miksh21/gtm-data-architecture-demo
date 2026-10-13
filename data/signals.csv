@@ -1,0 +1,17 @@
+signal_id,account_id,signal_type,observed_on,evidence_url,evidence_quote
+s01,owner.com,reporting_product_hire,2026-09-15,https://www.owner.com/careers,"Principal PM, Reporting & Agentic Insights: reporting is one of our biggest product investments this year"
+s02,owner.com,large_customer_data_footprint,2026-10-07,https://www.owner.com,20000+ restaurants
+s03,tryotter.com,reporting_product_hire,2026-10-05,https://www.tryotter.com/careers,"EM, Data Engineering & Insights: customer-facing embedded analytics"
+s04,joinblvd.com,reporting_product_hire,2026-08-05,https://www.joinblvd.com/careers,"Director of Engineering, Data: customer-facing reporting and external benchmarking"
+s05,ezcater.com,reporting_product_hire,2026-08-14,https://www.ezcater.com/careers,"Senior PM, Reporting & Insights: reporting platform for restaurant partners"
+s06,ezcater.com,large_customer_data_footprint,2026-10-07,https://www.ezcater.com,125000+ restaurants
+s07,storable.com,reporting_product_hire,2026-09-23,https://www.storable.com/careers,"SWE II, Analytics Platform: customer-facing analytics, and AI agents"
+s08,storable.com,large_customer_data_footprint,2026-10-07,https://www.storable.com,33000+ storage facilities
+s09,afresh.com,reporting_product_hire,2026-09-11,https://www.afresh.com/careers,"Staff Data Engineer, Analytics: customer-facing analytics needs"
+s10,cloudbeds.com,reporting_as_service_cost,2026-09-15,https://www.cloudbeds.com/careers,Reports & Insights Analyst
+s11,rangerfireandsecurity.co.uk,pe_acquisition_recent,2026-06-15,https://www.inflexion.com,Inflexion investment June 2026
+s12,rangerfireandsecurity.co.uk,buy_and_build,2026-10-07,https://www.rangerfireandsecurity.co.uk,25 acquisitions
+s13,hulcher.com,pe_acquisition_recent,2026-08-26,https://www.hulcher.com,Turnspire acquisition
+s14,solitudelakemanagement.com,pe_acquisition_recent,2026-09-24,https://www.solitudelakemanagement.com,Bain Capital carve-out from Rentokil
+s15,transpak.com,pe_acquisition_recent,2026-07-16,https://www.transpak.com,Odyssey investment
+s16,lyonsmagnus.com,pe_acquisition_recent,2026-07-21,https://www.lyonsmagnus.com,Truelink acquisition

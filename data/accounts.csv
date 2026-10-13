@@ -1,0 +1,13 @@
+account_id,name,hq_country,segment,hypothesis,end_customers,acquisitions,deal_type
+owner.com,Owner.com,US,vertical_saas,H1,20000,,
+tryotter.com,Otter,US,vertical_saas,H1,,,
+joinblvd.com,Boulevard,US,vertical_saas,H1,,,
+ezcater.com,ezCater,US,vertical_saas,H1,125000,,
+storable.com,Storable,US,vertical_saas,H1,33000,,
+afresh.com,Afresh,US,vertical_saas,H1,,,
+cloudbeds.com,Cloudbeds,US,vertical_saas,H1,,,
+rangerfireandsecurity.co.uk,Ranger Fire and Security,UK,pe_portfolio,H2,,25,buyout
+hulcher.com,Hulcher Services,US,pe_portfolio,H2,,,buyout
+solitudelakemanagement.com,SOLitude Lake Management,US,pe_portfolio,H2,,,carve_out
+transpak.com,TransPak,US,pe_portfolio,H2,,,first_outside_capital
+lyonsmagnus.com,Lyons Magnus,US,pe_portfolio,H2,,,buyout

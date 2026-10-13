@@ -1,0 +1,50 @@
+# Signal catalogue. weight = points at full strength; half_life_days = decay.
+# evidence: what must be stored for the signal to count.
+
+reporting_product_hire:
+  hypothesis: H1
+  description: Job post for a PM, engineering lead or analyst owning customer-facing reporting, analytics or insights.
+  source: job boards, careers pages
+  weight: 30
+  half_life_days: 45
+  evidence: URL of the post, date, quote naming customer-facing reporting
+
+reporting_as_service_cost:
+  hypothesis: H1
+  description: Reporting delivered by people as a service (analyst roles serving customers), a candidate for productising.
+  source: job boards
+  weight: 20
+  half_life_days: 45
+  evidence: URL, date, quote
+
+large_customer_data_footprint:
+  hypothesis: H1
+  description: Platform holds operational data for 10,000+ end customers (restaurants, sites, stores).
+  source: company website
+  weight: 15
+  half_life_days: 365
+  evidence: URL with the stated customer count
+
+pe_acquisition_recent:
+  hypothesis: H2
+  description: Majority PE acquisition or carve-out in the last 12 months.
+  source: press releases, deal databases
+  weight: 30
+  half_life_days: 120
+  evidence: deal announcement URL and date
+
+buy_and_build:
+  hypothesis: H2
+  description: Several acquisitions to integrate, so several data sets to unify.
+  source: press releases
+  weight: 15
+  half_life_days: 365
+  evidence: URL with acquisition count
+
+new_finance_leader:
+  hypothesis: H2
+  description: New CFO or finance/data leader hired after the deal. Second signal that confirms timing.
+  source: LinkedIn, press releases
+  weight: 25
+  half_life_days: 90
+  evidence: profile or announcement URL and start date
